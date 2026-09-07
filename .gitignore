@@ -1,0 +1,44 @@
+# Python bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+.venv/
+venv/
+env/
+ENV/
+
+# pytest and coverage
+.pytest_cache/
+.coverage
+.coverage.*
+htmlcov/
+
+# packaging/build output
+build/
+dist/
+*.egg-info/
+
+# IDE/editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# logs
+*.log
+logs/
+
+# temp files
+*.tmp
+*.bak
+
+# local Excel files (optional)
+*.xlsx
+*.xls
+xlsm
